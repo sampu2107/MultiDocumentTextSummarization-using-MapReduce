@@ -79,5 +79,3 @@ $ hadoop fs -rm -r /user/vpcl/project/output
 -- CONTACT --
 
 * Sampath Kumar Gunasekaran (sgunase2@uncc.edu)
-* Ajaykumar Prathap (aprathap@uncc.edu)
-* Viseshprasad Rajendraprasad (vrajend1@uncc.edu)
