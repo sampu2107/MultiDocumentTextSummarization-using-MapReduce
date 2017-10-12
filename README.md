@@ -1,4 +1,7 @@
 # MultiDocumentTextSummarization-using-MapReduce
+
+Link: https://sampu2107.github.io/TextSummarization/
+
 Summarizing Large Text Collection of News Articles Using K-Means Clustering and Topic Modelling based on the MapReduce framework.
 
 The proposed technique is designed using semantic similarity based clustering and topic modeling using Latent Dirichlet Allocation (LDA) for summarizing the large text collection over MapReduce framework. The presented technique is evaluated in terms of scalability and various text summarization parameters namely, compression ratio and ROUGE score is used to measure the performance of the summaries.
